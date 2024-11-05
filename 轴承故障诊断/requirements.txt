@@ -2,3 +2,5 @@ streamlit
 numpy
 pandas
 torch
+torchvision
+Pillow
